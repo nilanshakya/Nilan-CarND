@@ -32,7 +32,7 @@ For drawing the solid lines, I slightly deviated from the instruction provided t
 
 At the end of draw solid line, I calclate the x axis value of the buttom left and right lane as we want to start to draw from the buttom of the image. The buttom of the image value always have y axis's value 540 as that is our size of the image.
 
-Here is the image of the detected lane on red on top of the original image.
+Here is the identified line drawn in red color on top of the original image.
 
 [//]: # (Image References)
 
