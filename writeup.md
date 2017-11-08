@@ -34,7 +34,9 @@ At the end of draw solid line, I calclate the x axis value of the buttom left an
 
 If you'd like to include images to show how the pipeline works, here is how to include an image:
 
+[//]: # (Image References)
 
+[image1]: ./test_image_output/redlane.png
 
 ### 2. Identify potential shortcomings with your current pipeline
 
