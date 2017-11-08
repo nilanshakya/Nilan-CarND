@@ -36,7 +36,7 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 [//]: # (Image References)
 
-[image1]: ./test_image_output/redlane.png
+![alt text][image1]: ./test_image_output/redlane.png
 
 ### 2. Identify potential shortcomings with your current pipeline
 
